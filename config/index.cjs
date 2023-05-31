@@ -24,14 +24,14 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oO9Oe6V96_iEHMiRGGICLJdcp0q0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'LcAk6Fc6LfN8mgVX0sBDJJ91w2cFrJZRThHUTEmPWrY',
+      useTemplateId: '8svnbbCx4PHsHT_Atg0A7GLCwS392YX4vMFtuTUJjF0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-03',
       horoscopeDateType: '今日',
-      horoscope: true,
+      horoscope: false,
       birthdayMessage: true,
       holidaytts: true,
-      earthyLoveWords: true,
+      earthyLoveWords: false,
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
