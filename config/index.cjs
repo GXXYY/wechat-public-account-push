@@ -20,11 +20,11 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '可爱瑶瑶',
+      name: '小管',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oO9Oe6V96_iEHMiRGGICLJdcp0q0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'qD4zFLiv_L0Cv77jQyVhg4h0UiL2uob6byRtJ9gX2X0',
+      useTemplateId: 'CjsPXQk9XcMj9YrrCbgBwBvrYuzZ_0v2_XFjHCjx6i0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-03',
       horoscopeDateType: '今日',
@@ -56,11 +56,11 @@ const USER_CONFIG = {
     },
     {
       // 想要发送的人的名字
-      name: '小管',
+      name: '可爱瑶瑶',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oO9Oe6fYa08bR4hXbcPlJxtL_0Ks',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'qD4zFLiv_L0Cv77jQyVhg4h0UiL2uob6byRtJ9gX2X0',
+      useTemplateId: 'CjsPXQk9XcMj9YrrCbgBwBvrYuzZ_0v2_XFjHCjx6i0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-03',
       horoscopeDateType: '今日',
